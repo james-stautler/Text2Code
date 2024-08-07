@@ -1,5 +1,5 @@
 
-print("Enter/Paste your code. Ctrl-Z and enter on the final line to save it.")
+print("Enter/Paste your code. Ctrl-Z (Windows) or Ctrl-D (MacOS and Linux) and enter on the final line to save it.")
 contents = []
 while True:
     try:
